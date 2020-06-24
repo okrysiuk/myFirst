@@ -5,8 +5,8 @@
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
+  },
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/okrysiuk/covid2019info.git"
   },
@@ -22,7 +22,7 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-newer": "^1.4.0",
     "gulp-sass": "^4.1.0",
-    "gulp-uglify-js": "0.0.4",
+    "gulp-uglify-es": "^2.0.0",
     "jquery": "^3.5.1"
   }
 }

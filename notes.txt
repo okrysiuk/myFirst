@@ -1,4 +1,4 @@
-npm i --save-dev browser-sync gulp gulp-concat gulp-uglify-js gulp-sass gulp-autoprefixer gulp-clean-css gulp-imagemin gulp-newer del jquery
+npm i --save-dev browser-sync gulp gulp-concat gulp-uglify-es gulp-sass gulp-autoprefixer gulp-clean-css gulp-imagemin gulp-newer del jquery
 
 <link rel="stylesheet" href="css/main.min.css">
 <script src="js/main.min.js"></script>
